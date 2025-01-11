@@ -50,5 +50,5 @@ The project involves predicting salaries based on various features using supervi
 </ol>
 
 If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on LinkedIn and email.
-Email : muhammadrizcy2@gmail.com and LinkedIn : https://www.linkedin.com/in/muhammad-rizcy-109186324/
+Email : muhammadrizcy2@gmail.com and LinkedIn : https://www.linkedin.com/in/muhammad-rizcy-/
 
