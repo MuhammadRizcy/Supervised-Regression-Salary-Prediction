@@ -1,4 +1,4 @@
-![alt text](?raw=true)
+![alt text](https://github.com/MuhammadRizcy/Supervised-Regression-Salary-Prediction/blob/main/Random%20Forest.png?raw=true)
 # Supervised Regression Salary Prediction
 This repository contains a machine learning project aimed at predicting salaries using supervised regression models. The project explores multiple regression techniques, evaluates their performance, and provides insights into their applicability for salary prediction.
 ## Project Description
